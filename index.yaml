@@ -3,7 +3,17 @@ entries:
   kubernetes-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-09-30T16:31:45.3984561+03:00"
+    created: "2023-09-30T16:40:24.6460811+03:00"
+    description: A Helm chart for Kubernetes Project
+    digest: 710e710a821f5d317571eb5382935fc7f455643d7dd4f4f3118b2c9c1853d3a2
+    name: kubernetes-chart
+    type: application
+    urls:
+    - kubernetes-chart-0.3.0.tgz
+    version: 0.3.0
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-09-30T16:40:24.6455349+03:00"
     description: A Helm chart for Kubernetes Project
     digest: 17c1c21f09e4eb07657b79fe52a3e045f2be7c607730dcb248c7415c30a10b01
     name: kubernetes-chart
@@ -13,7 +23,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-09-30T16:31:45.3979079+03:00"
+    created: "2023-09-30T16:40:24.6450088+03:00"
     description: A Helm chart for Kubernetes
     digest: a17f4271cd6f51d4675368e92c9f5ac8772ff2d33c56e9231b309d2087c5c0e1
     name: kubernetes-chart
@@ -21,4 +31,4 @@ entries:
     urls:
     - kubernetes-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2023-09-30T16:31:45.3968084+03:00"
+generated: "2023-09-30T16:40:24.6437668+03:00"
